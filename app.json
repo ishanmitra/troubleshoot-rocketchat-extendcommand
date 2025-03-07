@@ -1,0 +1,16 @@
+{
+    "id": "1ff3e32b-4a6f-4dc5-89b4-9625bbf20999",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Ishan Mitra",
+        "homepage": "rocketchat.com",
+        "support": "support.rocketchat.com"
+    },
+    "name": "Extend Command",
+    "nameSlug": "extend-command",
+    "classFile": "ExtendCommandApp.ts",
+    "description": "Extends a command",
+    "implements": []
+}
